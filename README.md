@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diegobianqui
-- 👀 I’m interested in Quality Engineering, Serverless, Cloud Automation, Chaos Engineering
-- 🌱 I’m currently learning python, terraform, docker.
-- 💞️ I’m looking to collaborate on python.org initiatives.
+- 👀 I’m interested in AI, Serverless, Cloud Native Automation, Chaos Engineering
+- 🌱 I’m currently learning promt engineering, python, terraform, docker.
+- 💞️ I’m looking to collaborate on python.org / CNCF.io initiatives.
 - 📫 How to reach me: diego.bianqui@gmail.com
 
 <!---
