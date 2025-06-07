@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diegobianqui
-- 👀 I’m interested in AI, Serverless, Cloud Native Automation, Chaos Engineering
-- 🌱 I’m currently learning promt engineering, python, terraform, docker.
-- 💞️ I’m looking to collaborate on python.org / CNCF.io initiatives.
+- 👀 I’m interested in AI, Blockchain, web3, Smart Contracts.
+- 🌱 I’m currently learning Foundry, Vyper, Alchemy, Solidity / Smart Contracts.
+- 💞️ I’m looking to collaborate on python.org / web3 protocols.
 - 📫 How to reach me: diego.bianqui@gmail.com
 
 <!---
