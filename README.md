@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diegobianqui
-- 👀 I’m interested in AI, Blockchain, web3, Smart Contracts, Python.
+- 👀 I’m interested in Agentic AI, Blockchain, web3, Smart Contracts, Python.
 - 🌱 I’m currently learning Bitcoin Core, Foundry, Vyper, Scaffold-ETH, Solidity / Smart Contracts.
 - 💞️ I’m looking to collaborate on python.org / web3 protocols.
 - 📫 How to reach me: diego.bianqui@gmail.com
